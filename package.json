@@ -1,0 +1,27 @@
+{
+  "name": "vdt-season1-marvel-api",
+  "version": "1.0.0",
+  "description": "Projeto Automação API Marvel ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edcruz29/vdt-season1-marvel-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cypress",
+    "javascript"
+  ],
+  "author": "Eduardo Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edcruz29/vdt-season1-marvel-api/issues"
+  },
+  "homepage": "https://github.com/edcruz29/vdt-season1-marvel-api#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
